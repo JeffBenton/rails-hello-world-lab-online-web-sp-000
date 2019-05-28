@@ -3,4 +3,3 @@ class ApplicationController < ActionController::Base
   # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
 end
-https://learn.co/tracks/full-stack-web-development-v7/rails/introduction-to-rails/rails-hello-world#
